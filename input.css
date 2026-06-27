@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&family=Send+Flowers&display=swap');
+
+@theme {
+  --font-safari: "Send Flowers", sans-serif; 
+}
+
